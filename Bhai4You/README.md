@@ -1,4 +1,4 @@
-## Binyamin-binni Scripts Decrypted !!!
+## Bhai4You Scripts Decrypted !!!
 
 [![Deobfuscated BY](https://img.shields.io/badge/Deobfuscated%20BY-HTR--TECH-blue?style=for-the-badge)](#)
 

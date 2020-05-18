@@ -1,3 +1,5 @@
+## hatakecnk Scripts Decrypted !!!
+
 [![Deobfuscated BY](https://img.shields.io/badge/Deobfuscated%20BY-HTR--TECH-blue?style=for-the-badge)](#)
 
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=flat-square&logo=github)](https://github.com/htr-tech)
