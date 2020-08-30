@@ -1,12 +1,6 @@
-[![Deobfuscated BY](https://img.shields.io/badge/Deobfuscated%20BY-HTR--TECH-blue?style=for-the-badge)](#)
+### PROJECT MOVED TO :
 
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=flat-square&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=flat-square&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://m.me/tahmid.rayat.official)
+### [hax0rtahm1d](https://github.com/hax0rtahm1d/Reverse-Engineering)
 
+#### [https://github.com/hax0rtahm1d/Reverse-Engineering](https://github.com/hax0rtahm1d/Reverse-Engineering)
 
-## DM me to Request any tool for Reverse Engineering
-
-## Reverse-Engineering Tools Daily Updated !!
-
-## Follow me For More ! Give Credits if you Copy ! 
